@@ -1,14 +1,9 @@
 # MeuProfissa
 
 
-## Configuração de API Keys
+## Esse é o repositório público do Meu Profissa
 
-Antes de executar o aplicativo, você precisa configurar as seguintes chaves de API:
+Removemos as funcionalidades de código que envolvem configurações do Firebase por segurança às nossas chaves de API
 
-1. Crie um arquivo `.env` na raiz do projeto (use `.env.example` como modelo)
-2. Substitua os placeholders pelas suas chaves de API em:
-   - `lib/config/api_keys.dart`
-   - `android/app/src/main/AndroidManifest.xml`
-   - `ios/Runner/AppDelegate.swift`
-
-⚠️ **IMPORTANTE: Nunca compartilhe suas chaves de API publicamente ou cometa-as no GitHub.**
+Para conseguir testar, por gentileza baixar o protótipo distribuiível:
+https://drive.google.com/file/d/1yEOPJvd-zM-dPxrFuXVyo7Q7hbjdqN1n/view?usp=sharing
