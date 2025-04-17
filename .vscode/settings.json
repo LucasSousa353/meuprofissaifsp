@@ -1,0 +1,6 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    "cmake.sourceDirectory": "D:/Projetos/MeuProfissaFlutter/meuprofissadevflu/linux"
+}
